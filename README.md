@@ -1,5 +1,6 @@
 # Udacity-Tableau-Data-Visualization
 In this project, I created visualizations to reveal insights from a flight cancellation data set using Tableau.
+You can view this project at:  https://public.tableau.com/views/FlightStory-ShaimaaMasry/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 # Dataset: Flight Delays and Cancellations
 This data comes from a Kaggle dataset, it tracks the on-time performance of US domestic flights operated by large air carriers in 2015. You can find the dataset at the following link: https://video.udacity-data.com/topher/2017/December/5a3b1fad_flight-delays/flight-delays.zip
 # General Description:
